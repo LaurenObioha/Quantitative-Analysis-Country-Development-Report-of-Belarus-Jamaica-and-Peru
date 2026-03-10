@@ -8,7 +8,7 @@ To assess the determinants of economic development in Belarus, Jamaica and Peru 
 # 📈 Analysis Workflow 
 - Imported and inspected datasets from the World Bank.
 - Computed descriptive statisctics and visualized data.
-- Computed summary statisctics
+- Conducted regression analysis and computed summary statisctics
 - Interpreted statistical results.
 - Reported findings and conclusions.
 
@@ -26,7 +26,7 @@ After performing  t-test:
 
 After performing t-test:
 - p-value < 0.05 -> Reject H0
-- Conclusion: M8 significantly affects GDP suggesting that Model M8 has the largest explanatory power for economic development. 
+- Conclusion: M8 significantly affects GDP suggesting that Model M8 has the largest explanatory power for economic development, holding all other variables constant. 
 
 # 💡 Key Learnings 
 - Applying hypothesis testing to real-world data.
