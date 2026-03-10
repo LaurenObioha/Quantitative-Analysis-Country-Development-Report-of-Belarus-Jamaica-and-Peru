@@ -18,7 +18,7 @@ To assess the determinants of economic development in Belarus, Jamaica and Peru 
 
 After performing  t-test:
 - p-value > 0.05 -> Accept H0
-- Conclusion: It can be suggested that trade has no explanatory power on M4 and Trade has a non-significant effect on GDP.
+- Conclusion: It can be suggested that trade has no explanatory power on M4 and Trade has a non-significant effect on GDP, holding all other variables constant.
 
 # 🔍 Example Result 2
 - Null hypothesis (H0): Model 8 (M8) does not affect Gross Development Product (GDP).
